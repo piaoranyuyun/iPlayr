@@ -1,5 +1,6 @@
 {
-    "sites": [
+  "uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
+  "json": [
         { "name": "森林资源|AV", "type": 1, "api": "https://slapibf.com/api.php/provide/vod/" },
         { "name": "探探资源|AV", "type": 1, "api": "https://apittzy.com/api.php/provide/vod/" },
         { "name": "奥斯卡资源|AV", "type": 1, "api": "https://aosikazy.com/api.php/provide/vod/" },
