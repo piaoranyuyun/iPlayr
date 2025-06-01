@@ -171,21 +171,40 @@
       "name": "新浪|点播",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod"
     },
-    
-    
-    
-    
+    {
+      "type": 1,
+      "name": "四个圈|点播",
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod"
     },
-    
+    {
+      "type": 1,
+      "name": "如意|点播",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json"
+    },
+    {
+      "type": 1,
+      "name": "如意|点播",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/at/json"
+    },
+    {
+      "type": 1,
+      "name": "爱旦|点播",
+      "api": "https://lovedan.net/api.php/provide/vod"
+    },
+    {
+      "type": 1,
+      "name": "陶片|点播",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html"
+    },
+    {
+      "type": 1,
+      "name": "陶片|点播",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html"
+    },
     {
       "type": 8,
       "name": "4K影视-电影",
       "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/4kvm_movie.json"
-    },
-    {
-      "type": 8,
-      "name": "素白白",
-      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/subaibaiys.json"
     },
     {
       "type": 8,
@@ -194,13 +213,18 @@
     },
     {
       "type": 8,
-      "name": "myflixer",
-      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/myflixer.json"
+      "name": "低端影视",
+      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/ddys.json"
     },
     {
-      "type": 1,
-      "name": "lovedan",
-      "api": "https://lovedan.net/api.php/provide/vod"
+      "type": 8,
+      "name": "磁力熊",
+      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/cilixiong.json"
+    },
+    {
+      "type": 8,
+      "name": "myflixer",
+      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/myflixer.json"
     },
     {
       "type": 1,
@@ -214,19 +238,10 @@
     },
     {
       "type": 8,
-      "name": "低端影视",
-      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/ddys.json"
-    },
-    {
-      "type": 8,
       "name": "在线之家",
       "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/zxzj.json"
     },
-    {
-      "type": 8,
-      "name": "磁力熊",
-      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/cilixiong.json"
-    },
+    
     {
       "type": 8,
       "name": "厂长资源",
@@ -463,16 +478,6 @@
       "api": "https://Naixxzy.com/api.php/provide/vod/at/xml"
     },
     {
-      "type": 0,
-      "name": "八戒资源",
-      "api": "http://cj.bajiecaiji.com/inc/api.php"
-    },
-    {
-      "type": 8,
-      "name": "腐剧",
-      "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/fuju.json"
-    },
-    {
       "type": 8,
       "name": "iwant-sex",
       "api": "https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/iwant.json"
@@ -498,15 +503,6 @@
       "api": "https://wp.weikete.cc/down.php/3cb8e9662c0f2d6f32ba36919a011e19.json"
     },
     {
-      "type": 1,
-      "name": "陶片",
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html"
-    },
-    {
-      "type": 1,
-      "name": "虎牙",
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json"
-    },
     {
       "type": 8,
       "name": "hsex",
@@ -516,16 +512,6 @@
       "type": 6,
       "name": "葡萄",
       "api": "https://caiji.putaozyw.net/inc/api.php"
-    },
-    {
-      "type": 1,
-      "name": "海外吧",
-      "api": "https://hw8.live/api.php/provide/vod"
-    },
-    {
-      "type": 1,
-      "name": "腐剧|点播",
-      "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod"
     },
     {
       "type": 1,
@@ -573,11 +559,6 @@
       "api": "https://apilsbzy1.com/api.php/provide/vod"
     },
     {
-      "type": 0,
-      "name": "39影视",
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml"
-    },
-    {
       "type": 6,
       "name": "黄AV资源",
       "api": "https://www.pgxdy.com/api/xml.php"
@@ -587,10 +568,5 @@
       "name": "老鸭资源",
       "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml"
     },
-    {
-      "type": 0,
-      "name": "天空云",
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8"
-    }
   ]
 }
