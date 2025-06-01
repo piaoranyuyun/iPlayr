@@ -412,6 +412,7 @@
       "name": "我要啪啪",
       "api": "http://www.caiji21.com/home/cjapi/klkl/mc/vod/xml"
     },
+    {
       "type": 6,
       "name": "花魁资源",
       "api": "https://caiji.huakuiapi.com/inc/api.php"
